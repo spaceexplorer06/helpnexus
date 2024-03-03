@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349681887848",
+    "project_id": "helpnexus-da77f",
+    "storage_bucket": "helpnexus-da77f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349681887848:android:2f117739f6dbd4fd1fa9dd",
+        "android_client_info": {
+          "package_name": "com.spaceexplorer06.helpnexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVEPqSES0W9kHkQIug13-ZTai2pTaB6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
